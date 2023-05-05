@@ -7,7 +7,8 @@ import { MarketInput } from "./Pages/MarketInput"
 export function MarketMenu(pl) {
   let Menu = new ActionFormData()
   Menu.title("lore.admin_ui_home.bg")
-  Menu.body("§7")
+  Menu.body("§7กรุณาเลือกสิ่งที่ต้องการจะทำ\nMarket\nEdit\nBanm
+    k")
   Menu.button("Market")
   Menu.button("Edit")
   Menu.button("Bank")
