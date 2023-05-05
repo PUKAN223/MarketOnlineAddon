@@ -1,3 +1,2 @@
-import { world } from "@minecraft/server"
-
-world.events
+import "./Sources/OpenUi"
+import "./Sources/Watchdog"
