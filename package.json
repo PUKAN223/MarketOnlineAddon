@@ -1,0 +1,23 @@
+{
+  "name": "market",
+  "version": "1.0.0",
+  "description": "Market Online Addon Create By KisuX3",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PUKAN223/MarketOnlineAddon.git"
+  },
+  "author": "KisuX3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PUKAN223/MarketOnlineAddon/issues"
+  },
+  "homepage": "https://github.com/PUKAN223/MarketOnlineAddon#readme",
+  "dependencies": {
+    "@minecraft/server": "^1.2.0-beta.1.19.80-stable",
+    "@minecraft/server-ui": "^1.0.0-beta.1.19.80-stable"
+  }
+}
